@@ -115,7 +115,7 @@ while True:
 and we got it:
 
 ```bash
-┌──(mo㉿ElMo)-[~/Documents/CTF/web-writeup]
+┌──(R4m1㉿R4m1)-[~/Documents/CTF/web-writeup]
 └─$ python3 sol.py
 INTIGRITI{h
 INTIGRITI{h0
